@@ -1,0 +1,15 @@
+.footer {
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    
+    
+    background-color: #0cacd4;
+    height:500px;
+    width: 100%;
+    
+    
+    clip-path: polygon(100% 34%, 100% 100%, 58% 100%);
+
+    
+  }
